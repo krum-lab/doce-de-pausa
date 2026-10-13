@@ -2,7 +2,7 @@
   "product": "Doce de Pausa",
   "price_brl": 10,
   "checkout_url": "https://pay.cakto.com.br/vheq8h8_1199047",
-  "ready": false,
+  "ready": true,
   "service_fee_brl": 0.99,
   "total_brl": 10.99,
   "support_whatsapp": "554791549404",
